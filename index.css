@@ -13,13 +13,17 @@
     padding: 10px 10%;
     overflow: hidden;
     position: relative;
+    
 
 }
 nav{
-    padding: 10px 0;
+    padding: 10px;
     display: flex;
     align-items: center;
     justify-content: space-between;
+    background: yellow;
+    border-radius: 15px;
+    
 }
 .logo{
     width: 140px;
